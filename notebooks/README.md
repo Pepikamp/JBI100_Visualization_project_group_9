@@ -1,0 +1,1 @@
+Use numbered notebooks for reproducible exploration. Explain conclusions in Markdown, avoid large embedded outputs, and move stable reusable code into `src/`.\n

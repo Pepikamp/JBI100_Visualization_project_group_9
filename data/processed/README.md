@@ -1,0 +1,1 @@
+Place derived datasets here. Document the script, cleaning rules, missing-value treatment, and effect of each transformation. This folder is ignored by Git.\n

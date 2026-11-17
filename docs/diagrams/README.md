@@ -1,0 +1,1 @@
+Store design sketches, interaction diagrams, and screenshots here. Keep editable source files where possible.\n

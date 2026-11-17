@@ -1,0 +1,1 @@
+Place the original WRI v1.3.0 `global_power_plant_database.csv` here. Keep it unchanged. This folder is ignored by Git; check WRI licensing and attribution terms.\n
