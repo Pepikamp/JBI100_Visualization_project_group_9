@@ -45,7 +45,7 @@ Four members; fill in names and GitHub usernames:
 
 | Member | GitHub username | Responsibilities |
 |---|---|---|
-| 1 | TBD | TBD |
+| 1 | Pepikamp | TBD |
 | 2 | TBD | TBD |
 | 3 | TBD | TBD |
 | 4 | TBD | TBD |
