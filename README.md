@@ -1,4 +1,4 @@
-# Visualization Project – Group 14
+# Visualization Project – Group 9
 
 JBI100 Visualization course project: an interactive, coordinated-view exploration tool for the **Global Power Plant Database (WRI), version 1.3.0**.
 
@@ -40,12 +40,12 @@ python -m src.visualization_project.app
 
 Open `http://127.0.0.1:8050/`. The initial app is a scaffold, not the finished visualization.
 
-## Group 14
+## Group 9
 Four members; fill in names and GitHub usernames:
 
 | Member | GitHub username | Responsibilities |
 |---|---|---|
-| 1 | TBD | TBD |
+| 1 | Pepikamp | TBD |
 | 2 | TBD | TBD |
 | 3 | TBD | TBD |
 | 4 | TBD | TBD |
